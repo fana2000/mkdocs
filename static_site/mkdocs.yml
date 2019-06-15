@@ -1,0 +1,14 @@
+site_name: My Docs
+
+nav:
+  - Общее описание: index.md
+  - Полезные ресурсы ЮГУ: resources.md
+  - Полезные советы:
+    - Что это?: task3/what.md
+    - Советы:
+      - Совет1: task3/advice1.md
+      - Совет2: task3/advice2.md
+      - Совет3: task3/advice3.md
+  - Ресурсы студенческого сообщества ЮГУ: community.md
+
+theme: mkdocs
